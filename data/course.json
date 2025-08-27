@@ -1,0 +1,28 @@
+{
+  "term": "Spring",
+  "year": "2025",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "geology-introduction"
+  },
+  "course_image": {
+    "content": "",
+    "website": "geology-introduction"
+  },
+  "course_title": "Geology Intro",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This is an intro to rocks",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "GEO100",
+  "learning_resource_types": [],
+  "site_uid": "7e726587-74a1-4161-a034-4a04adc082ac",
+  "site_short_id": "geology-introduction",
+  "site_url_path": "courses/geo100-geology-intro-spring-2025"
+}
