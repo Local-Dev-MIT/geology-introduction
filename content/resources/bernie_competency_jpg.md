@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/geology-introduction/bernie_competency.jpg
+file: /courses/geo100-geology-intro-spring-2025/bernie_competency.jpg
 file_size: 75088
 file_type: image/jpeg
 image_metadata:

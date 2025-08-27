@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/geology-introduction/ali_pic_mit.jpeg
+file: /courses/geo100-geology-intro-spring-2025/ali_pic_mit.jpeg
 file_size: 61180
 file_type: image/jpeg
 image_metadata:
