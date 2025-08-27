@@ -1,0 +1,10 @@
+leftnav:
+- identifier: 7b1c4dd7-3422-4bc1-8697-3b613cfb3386
+  name: Top
+  pageRef: /pages/top-page
+  weight: 10
+- identifier: 2ba86eff-1a42-4367-b24d-13fdf0509d79
+  name: Nest
+  pageRef: /pages/top-page/nested-page
+  parent: 7b1c4dd7-3422-4bc1-8697-3b613cfb3386
+  weight: 10
