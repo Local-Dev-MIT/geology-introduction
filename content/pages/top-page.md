@@ -5,7 +5,8 @@ draft: false
 title: Top Page
 uid: 7b1c4dd7-3422-4bc1-8697-3b613cfb3386
 ---
-This is the top page
+This is the top page. This is an pdf  
+{{% resource_link "cb19e765-6bbd-4752-865a-3939fc0a4314" "Sample PDF" %}}
 
  
 
