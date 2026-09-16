@@ -8,7 +8,7 @@ file_size: 61180
 file_type: image/jpeg
 image_metadata:
   caption: 'Veins of fibrous serpentine (chrysotile): Mg<sub>3</sub>Si2O5(OH)4.'
-  credit: ''
+  credit: 'Veins of fibrous serpentine (chrysotile): Mg<sub>3</sub>Si2O5(OH)4.'
   image-alt: ''
 language: en
 learning_resource_types: []
