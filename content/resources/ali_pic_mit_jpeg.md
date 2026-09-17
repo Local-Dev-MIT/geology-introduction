@@ -7,9 +7,9 @@ file: /courses/geo100-geology-intro-spring-2025/ali_pic_mit.jpeg
 file_size: 61180
 file_type: image/jpeg
 image_metadata:
-  caption: 'Veins of fibrous serpentine (chrysotile): Mg<sub>3</sub>Si2O5(OH){{\<
+  caption: 'Veins of fibrous serpentdine (chrysotile): Mg<sub>3</sub>Si2O5(OH){{\<
     sub 4 >}}.'
-  credit: 'Veins of fibrous serpentifne (chrysotile): Yreah Mg3Si2O5(OH)4 and x{{\<
+  credit: 'Veins of fibrous serpentifene (chrysotile): Yreah Mg3Si2O5(OH)4 and x{{\<
     sub 2 >}}'
   image-alt: ''
 language: en
